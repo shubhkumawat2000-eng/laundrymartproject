@@ -1,0 +1,86 @@
+body{
+        overflow: hidden;  
+
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+    
+}
+
+.main{
+list-style-type: none;
+align-items: center;
+display: flex;
+gap: 40px;
+padding: 0%;
+margin: 0%;
+color: gray;
+font-size: 1.2rem;
+
+}
+.container{
+    margin: auto;
+}
+#logo{
+    height: 60px;
+}
+
+.bts{
+    padding: 15px 15px ;
+    font-size: 1.0rem;
+    background-color: rgb(181, 221, 248);
+    color: rgb(15, 151, 242);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.parent{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        padding: 0 100px;
+
+}
+
+.leftdiv{
+    align-content: center;
+        
+
+    height: 700px;
+    width: 515px;
+
+}
+.highlight{
+    color: rgb(15, 151, 242);
+}
+
+.btn{
+    padding: 12px 24px;      
+    font-size: 10px;         
+    background-color: rgb(15, 151, 242);  
+    color: white;            
+    border: none;            
+    border-radius: 10px;      
+    cursor: pointer;         
+}
+
+.para{
+     padding: 0%;
+    margin: 0%; 
+    color: gray;
+}
+
+
+.rightdiv{
+    
+
+
+    height: 700px;
+    width: 500;
+}
